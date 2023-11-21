@@ -9,7 +9,7 @@ It contains data from 2022 of 400k+ adults and their health status.
 The goal is to run 3 machine learning models (Decision Trees, K-Nearest Neighbors (KNN) and Random Forests)
 on columns grouped based on general attributes, ilness history and lifestyle in order to compare the result of the 3 and see if there's a correlation of having a heart disease.
 
-There's one Jupyter notebook for each one of the machine learning models. 
+There are 3 machine learning models on each Jupyter notebook, one notebook per group of attributes.
 
 [1] https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
 
